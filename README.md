@@ -13,5 +13,5 @@ Who wants socks at TrailheaDX 2018
 6) Congratulations!! You earned a pair of socks
 
 
-We hope you enjoyed your journey in learning on how to send a pull request. More information on our open source projects is availabele [here](https://salesforce.github.io/)
+We hope you enjoyed your journey in learning on how to send a pull request. More information on our open source projects is availabele [here](https://salesforce.github.io/).
 
